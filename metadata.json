@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix PM Career Mapper \u0026 Job Finder for India",
+  "description": "Just My Type 🎯 — Find jobs that are actually your type. Intelligent AI career pathfinder, domain discovery, and personalized job matching powered by your personal Career Privacy Key.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
